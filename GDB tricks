@@ -1,0 +1,2 @@
+# Call a function
+print ((char*(*)()) function)()
