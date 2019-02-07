@@ -1,4 +1,4 @@
 # Call a function
 print ((char*(*)()) function)()
 
-# scanf("%d") ignores "-" (minus sign)
+# scanf("%d") ignores "-" (minus sign) and "+" (plus sign)
